@@ -1,0 +1,38 @@
+body {
+  background-color: rgba(221, 11, 11, 0.897);
+}
+div {
+  align-items: center;
+  margin: 10px;
+  justify-content: center;
+  display: flex;
+}
+
+.titulo p {
+  font-size: 50px;
+  color: yellow;
+  font-family: "Times New Roman";
+}
+.enlace p {
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+  font-family: "Lobster";
+}
+.subtitulo p {
+  font-size: 30px;
+  color: rgb(0, 0, 0);
+  font-family: "Lobster";
+}
+.explicacion p {
+  font-size: 20px;
+  color: black;
+  font-family: "Lobster";
+  text-align: justify;
+  margin: 20px;
+}
+.explicacion img {
+  height: 300px;
+}
+.portada img {
+  width: 500px;
+}
